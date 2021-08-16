@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1629084727 source:c:\users\hp\desktop\c code\5.function\tic toc toe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
